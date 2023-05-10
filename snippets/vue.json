@@ -1,0 +1,21 @@
+{
+    "veo": {
+        "prefix": "veo",
+        "body": [
+            "<template>",
+            "  <div>",
+            "     ",
+            "  </div>",
+            "</template>",
+            "",
+            "<script setup>",
+            "",
+            "</script>",
+            "",
+            "<style scoped>",
+            "",
+            "</style>"
+        ],
+        "description": "Generate Vue3 component template"
+    }
+}
