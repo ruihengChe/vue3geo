@@ -1,6 +1,6 @@
 {
     "veo": {
-        "prefix": "veo",
+        "prefix": "veo2",
         "body": [
             "<template>",
             "  <div>",
@@ -8,7 +8,7 @@
             "  </div>",
             "</template>",
             "",
-            "<script setup>",
+            "<script>",
             "",
             "</script>",
             "",
@@ -16,6 +16,6 @@
             "",
             "</style>"
         ],
-        "description": "Generate Vue3 component template"
+        "description": "Generate Vue2 component template"
     }
 }

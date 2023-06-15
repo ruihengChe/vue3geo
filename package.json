@@ -22,13 +22,22 @@
     "snippets": [
       {
         "language": "vue",
-        "path": "./snippets/vue.json"
+        "path": "./snippets/vuet.json"
+      },
+      {
+        "language": "vue",
+        "path": "./snippets/vueth.json"
       }
     ],
     "commands": [
       {
         "command": "vue3-component-template.generate",
-        "title": "Generate Vue3 component template"
+        "title": "Generate Vue3 component template",
+        "when": "!inQuickOpen && !editorLangId == 'markdown'"
+      },
+      {
+        "command": "vue2-component-template.generate",
+        "title": "Generate Vue2 component template"
       }
     ]
   },
@@ -53,5 +62,6 @@
     "mocha": "^10.2.0",
     "typescript": "^5.0.4",
     "@vscode/test-electron": "^2.3.0"
-  }
+  },
+  "license": "MIT"
 }
