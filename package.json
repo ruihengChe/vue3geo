@@ -32,8 +32,7 @@
     "commands": [
       {
         "command": "vue3-component-template.generate",
-        "title": "Generate Vue3 component template",
-        "when": "!inQuickOpen && !editorLangId == 'markdown'"
+        "title": "Generate Vue3 component template"
       },
       {
         "command": "vue2-component-template.generate",
