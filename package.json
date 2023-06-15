@@ -2,7 +2,7 @@
   "name": "vue3geo",
   "displayName": "vue3Geo",
   "description": "Automatically generating Vue 3.2 component templates. Translate the previous sentence into English.",
-  "version": "0.0.1",
+  "version": "2.0.1",
   "publisher": "vue3geo",
   "repository": {
     "type": "git",
