@@ -1,5 +1,3 @@
-![Show GIF](./images/show.gif)
-
 EN:
 Version 0.0.1 - Template for Vue 3 components using `veo` command
 
