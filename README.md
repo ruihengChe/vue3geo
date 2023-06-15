@@ -1,19 +1,26 @@
-# vue3geo README
+![Show GIF](./images/show.gif)
 
+EN:
+Version 0.0.1 - Template for Vue 3 components using `veo` command
 
-### 1.0.0
+Features:
+- Generate templates for Vue 3 components using the `veo` command.
 
-Initial release of ...
+Version 2.0.1 - Templates for Vue 2 and 3 components using `veo2` and `veo3` commands
 
-### 1.0.1
+Features:
+- Add the `veo3` command to generate templates for Vue 3 components.
+- Rename the `veo` command to `veo2` for generating templates for Vue 2 components.
 
-Fixed issue #.
+中文：
 
-### 1.1.0
+版本0.0.1 - 使用`veo`命令生成Vue 3组件模板
 
-test
+特性：
+- 使用`veo`命令生成Vue 3组件模板。
 
+版本2.0.1 - 使用`veo2`和`veo3`命令生成Vue 2和3组件模板
 
-
-
-**Enjoy!**
+特性：
+- 添加`veo3`命令以生成Vue 3组件模板。
+- 将`veo`命令重命名为`veo2`以生成Vue 2组件模板。
